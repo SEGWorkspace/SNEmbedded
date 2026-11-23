@@ -1,0 +1,6 @@
+Release notes – Body Controller SW 1.5
+The door lock shall engage when vehicle speed exceeds 10 km/h.
+Interior light timeout is 30 seconds.
+Diagnostics session timeout: 5000 ms.
+New: automatic unlock after crash detection.
+Contact: integration team.
